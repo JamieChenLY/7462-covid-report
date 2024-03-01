@@ -1,7 +1,7 @@
-Minnesota COVID Report
-================
+# Minnesota COVID Report
 
-Report last run: 2023-04-06 22:07:43
+
+Report last run: 2024-03-01 21:10:11
 
 ## Introduction
 
@@ -128,3 +128,5 @@ rate_data %>%
 | Thurston                 | Nebraska      |  7224 |        360 |
 | Bethel Census Area       | Alaska        | 18386 |        354 |
 | Dewey                    | Oklahoma      |  4891 |        348 |
+
+Thank you!
