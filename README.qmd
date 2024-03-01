@@ -107,3 +107,5 @@ rate_data %>%
   slice(1:20) %>%
   knitr::kable()
 ```
+
+Thank you!
